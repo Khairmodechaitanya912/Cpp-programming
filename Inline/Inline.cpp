@@ -6,7 +6,9 @@ using namespace std;
 inline int Add(int N1,int N2)
 {
     int Res=0;
+
     Res=N1+N2;
+
     return Res;
 
 }
